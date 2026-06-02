@@ -1,11 +1,9 @@
-# File-Server-G1i
+# <p align="center"> File-Server-G1i
 
-<div style="text-align: center;">
+<p align="center">
+📂 <a href="https://www.xbox.com/en-US/play/user/mirrordev2031">RHKG3-8YW4W-4RHJG-83M4Y-X2O31</a>
+</p>
 
-📂 [RHKG3-8YW4W-4RHJG-83M4Y-X2O31](https://www.xbox.com/en-US/play/user/mirrordev2031)
-
-<br>
-
-📂 [FG7QW-RHQQ2-YXRKT-8TG6W-2FOX8](https://www.xbox.com/en-US/play/user/MINISHFOX)
-
-</div>
+<p align="center">
+📂 <a href="https://www.xbox.com/en-US/play/user/MINISHFOX">FG7QW-RHQQ2-YXRKT-8TG6W-2FOX8</a>
+</p>
